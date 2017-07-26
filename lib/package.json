@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blacklakeTech/AC-QRCode-RN.git"
+    "url": "git+https://github.com/hanguifeng/AC-QRCode-RN.git"
   },
   "dependencies": {
     "react-native-camera": "^0.9.0"
@@ -26,7 +26,7 @@
   "author": "Marno",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/blacklakeTech/AC-QRCode-RN.git/issues"
+    "url": "https://github.com/hanguifeng/AC-QRCode-RN.git/issues"
   },
-  "homepage": "https://github.com/blacklakeTech/AC-QRCode-RN.git#readme"
+  "homepage": "https://github.com/hanguifeng/AC-QRCode-RN.git#readme"
 }
