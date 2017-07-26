@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:hanguifeng/AC-QRCode-RN.git"
+    "url": "git+https://github.com/hanguifeng/AC-QRCode-RN.git"
   },
   "dependencies": {
     "react-native-camera": "^0.9.0"
