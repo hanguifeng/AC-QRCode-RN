@@ -1,6 +1,6 @@
 {
   "name": "ac-qrcode-bl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Highly customizable QRCode Scanner component for React Native",
   "main": "index.js",
   "readmeFilename": "README.md",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hanguifeng/AC-QRCode-RN.git"
+    "url": "git@github.com:hanguifeng/AC-QRCode-RN.git"
   },
   "dependencies": {
     "react-native-camera": "^0.9.0"
