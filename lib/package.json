@@ -1,5 +1,5 @@
 {
-  "name": "gc-ac-qrcode-bl",
+  "name": "gc-qrcode-bl",
   "version": "1.0.3",
   "description": "A Highly customizable QRCode Scanner component for React Native",
   "main": "index.js",
